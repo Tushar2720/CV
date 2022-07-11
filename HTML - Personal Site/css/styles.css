@@ -1,0 +1,31 @@
+body{
+  background-color: powderblue;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+/*---
+img{
+  height: 200px;
+}
+--*/
+h1{
+  color: Grey;
+}
+
+h3{
+  color: red;
+}
+
+.image:hover{                              /*----- class element -----*/
+  height: 150px;
+}
+
+#heading{                              /*----- id element -----*/
+  color: blue;
+}
